@@ -1,8 +1,8 @@
-# Let's Get Started
+# Mārtiņa lielā uzstāšanās
 
 ---
 
-## Add Some Slide Candy
+## AKas te notiek???? 
 
 ![IMAGE](assets/img/presentation.png)
 
